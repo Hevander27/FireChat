@@ -4,9 +4,11 @@ FireChat is a dynamic SwiftUI-powered chat app that harnesses Firebase Firestore
 
 Time spent: **2** hours spent in total
 
-## Required Features
 
-The following **required** functionality is completed:
+## 🎯 Goals
+
+
+The following functionalites are completed:
 
 - [X] Creating and configuring a custom server using Firebase Firestore
 - [X] Setting up listeners for real-time updates
