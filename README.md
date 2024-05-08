@@ -27,6 +27,10 @@ Here's a walkthrough of implemented user stories:
 
 
 
+<img width="1185" alt="Screenshot 2024-05-08 at 2 57 32 AM" src="https://github.com/Hevander27/FireChat/assets/45948489/c965579d-a6a6-4d84-abef-e7dd8853f607">
+
+
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
